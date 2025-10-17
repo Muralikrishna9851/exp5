@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 IT
 CSE
 DS
 EEE
 ME
 CE
+=======
+YFUFGIOUGUIYDFUYF
+>>>>>>> a267ad5c6ae690747b1f9dc902a9fff1a78c84a0
